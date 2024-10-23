@@ -21,3 +21,16 @@ Exploratory Data Analysis (EDA)
 Data Pre-processing
 Model Development and Evaluation
 Conclusion
+
+Key Features:
+
+Utilizes KNN, Logistic Regression, and Decision Tree algorithms for loan status prediction.
+Provides a comprehensive analysis of model performance through accuracy, precision, recall, and F1-score metrics.
+Includes data preprocessing steps to handle missing values, feature scaling, and categorical encoding.
+Offers a user-friendly interface to input applicant information and receive instant loan status predictions.
+Technologies Used:
+
+Python
+Scikit-learn for machine learning algorithms
+Pandas and NumPy for data manipulation and analysis
+Matplotlib and Seaborn for data visualization
