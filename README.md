@@ -26,6 +26,7 @@ Business Problem Understanding
 This is a classic scenario of using machine learning for loan eligibility prediction. Here's a breakdown of the problem:
 
 Company: Dream Housing finance company
+
 Business Need: Automate loan eligibility process for home loan applications.
 
 Data Source: Online application form where customers provide details.
